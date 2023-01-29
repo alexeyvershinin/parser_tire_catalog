@@ -1,0 +1,1403 @@
+{
+    "pageUrl": "/catalog/legkovye/?form_id=catalog_filter_form&filter_mode=params&sort=asc&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&arCatalogFilter_463=668736523&PAGEN_1=1",
+    "items": [
+        {
+            "id": 92170,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 296,
+            "season": "Летние",
+            "price": 2670,
+            "name": "185/60 R14 82H КАМА Breeze (НК-132) TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/76c/275_275_1/0revtav52cmk15olnpc20sm7bhfo2ilu.png",
+            "url": "/catalog/legkovye/18560-r14-82h-kama-breeze-nk-132-tl92763/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92170",
+                    "AMOUNT": "292",
+                    "PRODUCT_XML_ID": "92763",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2670.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "164",
+                    "PRODUCT_ID": "92170",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "92763",
+                    "STORE_XML_ID": "295",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 4д",
+                    "PRICE": "2670.00",
+                    "PRICE_ID": "15"
+                }
+            ],
+            "brand": "КАМА",
+            "brandCode": "",
+            "vendorCode": "1110004",
+            "model": "Breeze (НК-132)",
+            "raznItems": [
+                {
+                    "id": "92170",
+                    "name": "185/60 R14",
+                    "price": 2670,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-82h-kama-breeze-nk-132-tl92763/"
+                },
+                {
+                    "id": "92175",
+                    "name": "175/70 R14",
+                    "price": 2700,
+                    "amount": "101",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r14-84t-kama-breeze-nk-132-tl92777/"
+                },
+                {
+                    "id": "170181",
+                    "name": "175/65 R14",
+                    "price": 2570,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565-r14-82h-kama-breeze-nk-132-tl-1110002/"
+                },
+                {
+                    "id": "171154",
+                    "name": "185/65 R14",
+                    "price": 2670,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-86h-kama-breeze-nk-132-tl-1110005/"
+                },
+                {
+                    "id": "171155",
+                    "name": "185/70 R14",
+                    "price": 3000,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-88t-kama-breeze-nk-132-tl-1110006/"
+                }
+            ]
+        },
+        {
+            "id": 92175,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 101,
+            "season": "Летние",
+            "price": 2700,
+            "name": "175/70 R14 84T КАМА Breeze (НК-132) TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/450/275_275_1/pscuw8gt38ckw0gf38vws6twbgzsa2de.png",
+            "url": "/catalog/legkovye/17570-r14-84t-kama-breeze-nk-132-tl92777/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92175",
+                    "AMOUNT": "101",
+                    "PRODUCT_XML_ID": "92777",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2700.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "КАМА",
+            "brandCode": "",
+            "vendorCode": "1110003",
+            "model": "Breeze (НК-132)",
+            "raznItems": [
+                {
+                    "id": "92170",
+                    "name": "185/60 R14",
+                    "price": 2670,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-82h-kama-breeze-nk-132-tl92763/"
+                },
+                {
+                    "id": "92175",
+                    "name": "175/70 R14",
+                    "price": 2700,
+                    "amount": "101",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r14-84t-kama-breeze-nk-132-tl92777/"
+                },
+                {
+                    "id": "170181",
+                    "name": "175/65 R14",
+                    "price": 2570,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565-r14-82h-kama-breeze-nk-132-tl-1110002/"
+                },
+                {
+                    "id": "171154",
+                    "name": "185/65 R14",
+                    "price": 2670,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-86h-kama-breeze-nk-132-tl-1110005/"
+                },
+                {
+                    "id": "171155",
+                    "name": "185/70 R14",
+                    "price": 3000,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-88t-kama-breeze-nk-132-tl-1110006/"
+                }
+            ]
+        },
+        {
+            "id": 121727,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 307,
+            "season": "Летние",
+            "price": 2830,
+            "name": "175/70 R14 84T ROTALLA Setula E-Race RH05 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/0d3/275_275_1/0bb3a1o40simxuhlsfl3qozbja4botep.png",
+            "url": "/catalog/legkovye/17570-r14-84t-rotalla-setula-e-race-rh05-tl92491/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "121727",
+                    "AMOUNT": "303",
+                    "PRODUCT_XML_ID": "92491",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "2830.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "121727",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "92491",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "2830.00",
+                    "PRICE_ID": "19"
+                }
+            ],
+            "brand": "ROTALLA",
+            "brandCode": "856",
+            "vendorCode": "RTL1081",
+            "model": "Setula E-Race RH05",
+            "raznItems": [
+                {
+                    "id": "121727",
+                    "name": "175/70 R14",
+                    "price": 2830,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r14-84t-rotalla-setula-e-race-rh05-tl92491/"
+                }
+            ]
+        },
+        {
+            "id": 92217,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "13 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 95,
+            "season": "Летние",
+            "price": 3280,
+            "name": "175/70 R13 82H CORDIANT Road Runner TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/d17/275_275_1/4i33k4y6jv6vj932ooishpstuovu3d55.png",
+            "url": "/catalog/legkovye/17570-r13-82h-cordiant-road-runner-tl92978/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92217",
+                    "AMOUNT": "91",
+                    "PRODUCT_XML_ID": "92978",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3280.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "92217",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "92978",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "3280.00",
+                    "PRICE_ID": "11"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "355815573",
+            "model": "Road Runner",
+            "raznItems": [
+                {
+                    "id": "92217",
+                    "name": "175/70 R13",
+                    "price": 3280,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r13-82h-cordiant-road-runner-tl92978/"
+                }
+            ]
+        },
+        {
+            "id": 92296,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "195 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 757,
+            "season": "Летние",
+            "price": 3420,
+            "name": "195/65 R15 91H VIATTI Strada Asimmetrico (V-130) TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/b63/275_275_1/uksbo7cd5q3oho49x6j0p25b59ny9px5.png",
+            "url": "/catalog/legkovye/19565-r15-91h-viatti-strada-asimmetrico-v-130-tl94314/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92296",
+                    "AMOUNT": "757",
+                    "PRODUCT_XML_ID": "94314",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3420.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "VIATTI",
+            "brandCode": "",
+            "vendorCode": "3110014",
+            "model": "Strada Asimmetrico V-130",
+            "raznItems": [
+                {
+                    "id": "92296",
+                    "name": "195/65 R15",
+                    "price": 3420,
+                    "amount": "757",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19565-r15-91h-viatti-strada-asimmetrico-v-130-tl94314/"
+                },
+                {
+                    "id": "170244",
+                    "name": "185/65 R15",
+                    "price": 3330,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r15-88h-viatti-strada-asimmetrico-v-130-tl-3110009/"
+                },
+                {
+                    "id": "170638",
+                    "name": "195/60 R15",
+                    "price": 3850,
+                    "amount": "26",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19560-r15-88v-viatti-strada-asimmetrico-v-130-tl-3110012/"
+                }
+            ]
+        },
+        {
+            "id": 92218,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 197,
+            "season": "Летние",
+            "price": 3440,
+            "name": "175/65 R14 82H CORDIANT Road Runner TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/f25/275_275_1/jrcjigx1duk7oj65bfc8nrokuzv78v0g.png",
+            "url": "/catalog/legkovye/17565-r14-82h-cordiant-road-runner-tl92979/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92218",
+                    "AMOUNT": "193",
+                    "PRODUCT_XML_ID": "92979",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3440.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "92218",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "92979",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": "3440.00",
+                    "PRICE_ID": "25"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "1305232007",
+            "model": "Road Runner",
+            "raznItems": [
+                {
+                    "id": "92216",
+                    "name": "185/60 R14",
+                    "price": 3450,
+                    "amount": "746",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-82h-cordiant-road-runner-tl92977/"
+                },
+                {
+                    "id": "92218",
+                    "name": "175/65 R14",
+                    "price": 3440,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565-r14-82h-cordiant-road-runner-tl92979/"
+                }
+            ]
+        },
+        {
+            "id": 92216,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 746,
+            "season": "Летние",
+            "price": 3450,
+            "name": "185/60 R14 82H CORDIANT Road Runner TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/373/275_275_1/66fnem81foz1enxtjj7isz24gxu9ke2r.png",
+            "url": "/catalog/legkovye/18560-r14-82h-cordiant-road-runner-tl92977/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92216",
+                    "AMOUNT": "746",
+                    "PRODUCT_XML_ID": "92977",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3450.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "1305232055",
+            "model": "Road Runner",
+            "raznItems": [
+                {
+                    "id": "92216",
+                    "name": "185/60 R14",
+                    "price": 3450,
+                    "amount": "746",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-82h-cordiant-road-runner-tl92977/"
+                },
+                {
+                    "id": "92218",
+                    "name": "175/65 R14",
+                    "price": 3440,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565-r14-82h-cordiant-road-runner-tl92979/"
+                }
+            ]
+        },
+        {
+            "id": 104054,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 507,
+            "season": "Летние",
+            "price": 3560,
+            "name": "185/60 R14 86H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/ebd/275_275_1/37kf4hjrqn45j3ld8vfzj2a150a1vrh0.png",
+            "url": "/catalog/legkovye/18560-r14-86h-cordiant-comfort-2-tl91367/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104054",
+                    "AMOUNT": "493",
+                    "PRODUCT_XML_ID": "91367",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3560.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "104054",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "91367",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": "3560.00",
+                    "PRICE_ID": "12"
+                },
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "104054",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91367",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "3560.00",
+                    "PRICE_ID": "19"
+                },
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "104054",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91367",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": "3560.00",
+                    "PRICE_ID": "25"
+                },
+                {
+                    "STORE_ID": "185",
+                    "PRODUCT_ID": "104054",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91367",
+                    "STORE_XML_ID": "415",
+                    "STORE_NAME": "г. Челябинск, Свердловский пр-т, 40а",
+                    "PRICE": "3560.00",
+                    "PRICE_ID": "21"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "650852010",
+            "model": "Comfort 2",
+            "raznItems": [
+                {
+                    "id": "104054",
+                    "name": "185/60 R14",
+                    "price": 3560,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-86h-cordiant-comfort-2-tl91367/"
+                },
+                {
+                    "id": "104055",
+                    "name": "185/65 R14",
+                    "price": 3810,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-90h-cordiant-comfort-2-tl91368/"
+                },
+                {
+                    "id": "104056",
+                    "name": "185/70 R14",
+                    "price": 4160,
+                    "amount": "2",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-92h-cordiant-comfort-2-tl91369/"
+                }
+            ]
+        },
+        {
+            "id": 104057,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 105,
+            "season": "Летние",
+            "price": 3770,
+            "name": "185/65 R15 92H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/adf/275_275_1/imytw0wi7h0xgrbhwwm45rip5gzixwko.png",
+            "url": "/catalog/legkovye/18565-r15-92h-cordiant-comfort-2-tl91370/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "104057",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91370",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "3770.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104057",
+                    "AMOUNT": "101",
+                    "PRODUCT_XML_ID": "91370",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3770.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "650852690",
+            "model": "Comfort 2",
+            "raznItems": [
+                {
+                    "id": "104057",
+                    "name": "185/65 R15",
+                    "price": 3770,
+                    "amount": "101",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r15-92h-cordiant-comfort-2-tl91370/"
+                },
+                {
+                    "id": "104058",
+                    "name": "195/60 R15",
+                    "price": 4290,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19560-r15-92h-cordiant-comfort-2-tl91371/"
+                },
+                {
+                    "id": "104060",
+                    "name": "195/55 R15",
+                    "price": 5280,
+                    "amount": "24",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19555-r15-89h-cordiant-comfort-2-tl91373/"
+                },
+                {
+                    "id": "104066",
+                    "name": "195/65 R15",
+                    "price": 3930,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19565-r15-95h-cordiant-comfort-2-tl91379/"
+                },
+                {
+                    "id": "104067",
+                    "name": "205/65 R15",
+                    "price": 4610,
+                    "amount": "27",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20565-r15-99h-cordiant-comfort-2-tl91380/"
+                }
+            ]
+        },
+        {
+            "id": 104055,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 63,
+            "season": "Летние",
+            "price": 3810,
+            "name": "185/65 R14 90H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/5bf/275_275_1/6l9o9jf0aiymcof3u8tz5macg056wmzx.png",
+            "url": "/catalog/legkovye/18565-r14-90h-cordiant-comfort-2-tl91368/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104055",
+                    "AMOUNT": "55",
+                    "PRODUCT_XML_ID": "91368",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3810.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "104055",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91368",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": "3810.00",
+                    "PRICE_ID": "25"
+                },
+                {
+                    "STORE_ID": "185",
+                    "PRODUCT_ID": "104055",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91368",
+                    "STORE_XML_ID": "415",
+                    "STORE_NAME": "г. Челябинск, Свердловский пр-т, 40а",
+                    "PRICE": "3810.00",
+                    "PRICE_ID": "21"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "650852668",
+            "model": "Comfort 2",
+            "raznItems": [
+                {
+                    "id": "104054",
+                    "name": "185/60 R14",
+                    "price": 3560,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-86h-cordiant-comfort-2-tl91367/"
+                },
+                {
+                    "id": "104055",
+                    "name": "185/65 R14",
+                    "price": 3810,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-90h-cordiant-comfort-2-tl91368/"
+                },
+                {
+                    "id": "104056",
+                    "name": "185/70 R14",
+                    "price": 4160,
+                    "amount": "2",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-92h-cordiant-comfort-2-tl91369/"
+                }
+            ]
+        },
+        {
+            "id": 104066,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "195 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 297,
+            "season": "Летние",
+            "price": 3930,
+            "name": "195/65 R15 95H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/ed9/275_275_1/otyko36gtv713lozbf01ykvnnoa58e8f.png",
+            "url": "/catalog/legkovye/19565-r15-95h-cordiant-comfort-2-tl91379/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "104066",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91379",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "3930.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104066",
+                    "AMOUNT": "289",
+                    "PRODUCT_XML_ID": "91379",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "3930.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "104066",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91379",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "3930.00",
+                    "PRICE_ID": "11"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "650852644",
+            "model": "Comfort 2",
+            "raznItems": [
+                {
+                    "id": "104057",
+                    "name": "185/65 R15",
+                    "price": 3770,
+                    "amount": "101",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r15-92h-cordiant-comfort-2-tl91370/"
+                },
+                {
+                    "id": "104058",
+                    "name": "195/60 R15",
+                    "price": 4290,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19560-r15-92h-cordiant-comfort-2-tl91371/"
+                },
+                {
+                    "id": "104060",
+                    "name": "195/55 R15",
+                    "price": 5280,
+                    "amount": "24",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19555-r15-89h-cordiant-comfort-2-tl91373/"
+                },
+                {
+                    "id": "104066",
+                    "name": "195/65 R15",
+                    "price": 3930,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19565-r15-95h-cordiant-comfort-2-tl91379/"
+                },
+                {
+                    "id": "104067",
+                    "name": "205/65 R15",
+                    "price": 4610,
+                    "amount": "27",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20565-r15-99h-cordiant-comfort-2-tl91380/"
+                }
+            ]
+        },
+        {
+            "id": 104056,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 78,
+            "season": "Летние",
+            "price": 4160,
+            "name": "185/70 R14 92H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/b50/275_275_1/0i4p6tka8hvi41kpozgw8jjr4lhatzu5.png",
+            "url": "/catalog/legkovye/18570-r14-92h-cordiant-comfort-2-tl91369/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "104056",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91369",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "4160.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104056",
+                    "AMOUNT": "72",
+                    "PRODUCT_XML_ID": "91369",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "4160.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "104056",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "91369",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": "4160.00",
+                    "PRICE_ID": "12"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "650852679",
+            "model": "Comfort 2",
+            "raznItems": [
+                {
+                    "id": "104054",
+                    "name": "185/60 R14",
+                    "price": 3560,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560-r14-86h-cordiant-comfort-2-tl91367/"
+                },
+                {
+                    "id": "104055",
+                    "name": "185/65 R14",
+                    "price": 3810,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-90h-cordiant-comfort-2-tl91368/"
+                },
+                {
+                    "id": "104056",
+                    "name": "185/70 R14",
+                    "price": 4160,
+                    "amount": "2",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-92h-cordiant-comfort-2-tl91369/"
+                }
+            ]
+        },
+        {
+            "id": 92215,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "205 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 296,
+            "season": "Летние",
+            "price": 4160,
+            "name": "205/55 R16 94H CORDIANT Road Runner TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/7fb/275_275_1/50q27lyykyb32r109owas2ksmbxch2xb.png",
+            "url": "/catalog/legkovye/20555-r16-94h-cordiant-road-runner-tl92976/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "92215",
+                    "AMOUNT": "296",
+                    "PRODUCT_XML_ID": "92976",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "4160.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "355816447",
+            "model": "Road Runner",
+            "raznItems": [
+                {
+                    "id": "92215",
+                    "name": "205/55 R16",
+                    "price": 4160,
+                    "amount": "296",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20555-r16-94h-cordiant-road-runner-tl92976/"
+                }
+            ]
+        },
+        {
+            "id": 104065,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "205 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 118,
+            "season": "Летние",
+            "price": 4290,
+            "name": "205/55 R16 94V CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/322/275_275_1/6ru0bmwyi5qnhc25pzd2frd41prrng8l.png",
+            "url": "/catalog/legkovye/20555-r16-94v-cordiant-comfort-2-tl91378/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104065",
+                    "AMOUNT": "118",
+                    "PRODUCT_XML_ID": "91378",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Оптовый Склад",
+                    "PRICE": "4290.00",
+                    "PRICE_ID": "9"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "747289757",
+            "model": "Comfort 2",
+            "raznItems": [
+                {
+                    "id": "104059",
+                    "name": "205/60 R16",
+                    "price": 5410,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20560-r16-96h-cordiant-comfort-2-tl91372/"
+                },
+                {
+                    "id": "104062",
+                    "name": "215/60 R16",
+                    "price": 6250,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/21560-r16-99h-cordiant-comfort-2-tl91375/"
+                },
+                {
+                    "id": "104065",
+                    "name": "205/55 R16",
+                    "price": 4290,
+                    "amount": "118",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20555-r16-94v-cordiant-comfort-2-tl91378/"
+                }
+            ]
+        }
+    ],
+    "filter": {
+        "0": {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_156": 0,
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_159": 0,
+            ">STORE_AMOUNT_160": 0,
+            ">STORE_AMOUNT_161": 0,
+            ">STORE_AMOUNT_164": 0,
+            ">STORE_AMOUNT_165": 0,
+            ">STORE_AMOUNT_168": 0,
+            ">STORE_AMOUNT_169": 0,
+            ">STORE_AMOUNT_174": 0,
+            ">STORE_AMOUNT_180": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_185": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        "1": {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0,
+            ">CATALOG_CATALOG_GROUP_ID_7": 0,
+            ">CATALOG_CATALOG_GROUP_ID_9": 0,
+            ">CATALOG_CATALOG_GROUP_ID_10": 0,
+            ">CATALOG_CATALOG_GROUP_ID_11": 0,
+            ">CATALOG_CATALOG_GROUP_ID_12": 0,
+            ">CATALOG_CATALOG_GROUP_ID_15": 0,
+            ">CATALOG_CATALOG_GROUP_ID_16": 0,
+            ">CATALOG_CATALOG_GROUP_ID_19": 0,
+            ">CATALOG_CATALOG_GROUP_ID_20": 0,
+            ">CATALOG_CATALOG_GROUP_ID_21": 0,
+            ">CATALOG_CATALOG_GROUP_ID_25": 0,
+            ">CATALOG_CATALOG_GROUP_ID_86": 0,
+            ">CATALOG_CATALOG_GROUP_ID_87": 0,
+            ">CATALOG_CATALOG_GROUP_ID_88": 0,
+            ">CATALOG_CATALOG_GROUP_ID_89": 0,
+            ">CATALOG_CATALOG_GROUP_ID_99": 0,
+            ">CATALOG_CATALOG_GROUP_ID_110": 0
+        },
+        "2": {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_156": 0,
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_159": 0,
+            ">STORE_AMOUNT_160": 0,
+            ">STORE_AMOUNT_161": 0,
+            ">STORE_AMOUNT_164": 0,
+            ">STORE_AMOUNT_165": 0,
+            ">STORE_AMOUNT_168": 0,
+            ">STORE_AMOUNT_169": 0,
+            ">STORE_AMOUNT_174": 0,
+            ">STORE_AMOUNT_180": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_185": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        "3": {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0,
+            ">CATALOG_CATALOG_GROUP_ID_7": 0,
+            ">CATALOG_CATALOG_GROUP_ID_9": 0,
+            ">CATALOG_CATALOG_GROUP_ID_10": 0,
+            ">CATALOG_CATALOG_GROUP_ID_11": 0,
+            ">CATALOG_CATALOG_GROUP_ID_12": 0,
+            ">CATALOG_CATALOG_GROUP_ID_15": 0,
+            ">CATALOG_CATALOG_GROUP_ID_16": 0,
+            ">CATALOG_CATALOG_GROUP_ID_19": 0,
+            ">CATALOG_CATALOG_GROUP_ID_20": 0,
+            ">CATALOG_CATALOG_GROUP_ID_21": 0,
+            ">CATALOG_CATALOG_GROUP_ID_25": 0,
+            ">CATALOG_CATALOG_GROUP_ID_86": 0,
+            ">CATALOG_CATALOG_GROUP_ID_87": 0,
+            ">CATALOG_CATALOG_GROUP_ID_88": 0,
+            ">CATALOG_CATALOG_GROUP_ID_89": 0,
+            ">CATALOG_CATALOG_GROUP_ID_99": 0,
+            ">CATALOG_CATALOG_GROUP_ID_110": 0
+        },
+        "=PROPERTY_458": [
+            "154"
+        ]
+    },
+    "promo": {
+        "id": "165954",
+        "url": "/promo/shiny-v-rassrochku/",
+        "name": "Покупки в рассрочку",
+        "text": "Теперь вы можете купить зимние шины, или диски в рассрочку быстро и легко: без первоначального взноса и без переплаты!",
+        "imgSrc": "/upload/resize_cache/iblock/356/1075_613_1/8iiw8xmv2bzky9euo9mn57dqx6dk3xa9.jpg",
+        "videoSrc": null
+    },
+    "promoFilter": {
+        "IBLOCK_ID": 10,
+        "ACTIVE": "Y",
+        "=PROPERTY_SECTION": 206,
+        "=PROPERTY_CATALOG_SEASON": [
+            false,
+            204
+        ],
+        "=PROPERTY_CATALOG_BRAND": [
+            false
+        ]
+    },
+    "navNum": 1,
+    "pagesCount": 6,
+    "pageNum": 1
+}
