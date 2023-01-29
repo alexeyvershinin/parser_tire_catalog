@@ -29,10 +29,45 @@ def get_data():
 
         r = requests.get(url=url, headers=headers)
         data = r.json()
-        # получаем данные из ключа items
         items = data["items"]
-        print(items)
 
+        # возможные склады, информация по ним была в разметке одной из страниц
+        possible_stores = ["discountStores", "fortochkiStores", "commonStores"]
+
+        # получаем данные из ключа items
+        for item in items:
+            total_amount = 0
+            item_name = item["name"]
+            item_price = item["price"]
+            item_img = f'https://roscarservis.ru{item["imgSrc"]}'
+            item_url = f'https://roscarservis.ru{item["url"]}'
+
+            # список складов, которые достанем из ключа items
+            stores = []
+
+            for ps in possible_stores:
+                if ps in item:
+                    if item[ps] is None or len(item[ps]) < 1:
+                        continue
+                    else:
+                        for store in item[ps]:
+                            # название склада
+                            store_name = store["STORE_NAME"]
+                            # прайс
+                            store_price = store["PRICE"]
+                            #  количество шин на складе
+                            store_amount = store["AMOUNT"]
+                            # общее количество шин
+                            total_amount += int(store["AMOUNT"])
+
+                            stores.append(
+                                {
+                                    "store_name": store_name,
+                                    "store_price": store_price,
+                                    "store_amount": store_amount
+                                }
+                            )
+            print(stores)
 
 
 def main():
