@@ -22,7 +22,17 @@ def get_data():
 
     # получим количество доступных страниц
     pages_count = r.json()["pagesCount"]
-    print(pages_count)
+
+    # в цикле получим данные с каждой страницы
+    for page in range(1, pages_count + 1):
+        url = f"https://roscarservis.ru/catalog/legkovye/?form_id=catalog_filter_form&filter_mode=params&sort=asc&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&arCatalogFilter_463=668736523&PAGEN_1={page}"
+
+        r = requests.get(url=url, headers=headers)
+        data = r.json()
+        # получаем данные из ключа items
+        items = data["items"]
+        print(items)
+
 
 
 def main():
